@@ -192,6 +192,10 @@ Got it! I've saved your application:
 Good luck! I'll help you track this. 🎯
 ```
 
+### Analytics Dashboard
+   ![Analytics Dashboard](images/dashboard-preview.png)
+```
+
 ## 🎓 Workshop Coverage Analysis
 
 ### Day 1: Agent Architecture ✅
