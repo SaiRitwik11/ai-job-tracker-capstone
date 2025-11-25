@@ -29,7 +29,6 @@ ENV/
 # Jupyter Notebook
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-.ipynb_checkpoints/
 
 # Database
 *.db
@@ -42,7 +41,7 @@ job_tracker.db
 .env.local
 *.env
 
-# API Keys (IMPORTANT!)
+# API Keys
 *_key.txt
 *_keys.txt
 secrets.json
@@ -53,28 +52,12 @@ credentials.json
 .idea/
 *.swp
 *.swo
-*~
 
 # OS
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
 Thumbs.db
 
 # Logs
 *.log
 logs/
-
-# Testing
-.pytest_cache/
-.coverage
-htmlcov/
-
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
 ```
