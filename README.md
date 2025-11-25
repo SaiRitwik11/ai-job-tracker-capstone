@@ -231,6 +231,18 @@ Good luck! I'll help you track this. 🎯
 - [ ] Integration with job boards (LinkedIn, Indeed)
 - [ ] Resume tailoring suggestions
 
+---
+
+## 📬 Contact
+
+**Jannu Sai Ritwik**
+
+- LinkedIn: https://www.linkedin.com/in/jannu-sai-ritwik-339749201/
+- Email: sairitwik008@gmail.com
+- Kaggle:(https://www.kaggle.com/jannusairitwik)
+
+---
+
 ## 🤝 Contributing
 
 This is a capstone project, but suggestions and improvements are welcome!
@@ -255,14 +267,17 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-- Google AI team for the excellent Gemini API
-- Workshop instructors for comprehensive agent development training
-- The job search struggle that inspired this project 😅
-
-## 📞 Contact
-
-For questions or feedback about this capstone project, feel free to reach out!
-
+- Google AI Agents Workshop organizers and instructors
+- Google Gemini API team
+- Kaggle platform for hosting and compute resources
+- Fellow workshop participants for inspiration
 ---
 
-**⭐ If you found this project helpful, please give it a star!**
+<div align="center">
+
+### ⭐ If you found this project helpful, please consider giving it a star!
+
+**Built with ❤️ during the Google AI Agents 5-Day Workshop**
+
+</div>
+```
