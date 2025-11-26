@@ -78,6 +78,17 @@ This tracker represents not just what I learned, but a tool I actually need and 
 - **Data Processing**: Pandas
 - **Language**: Python 3.11+
 
+## 📓 View the Project Notebook
+
+**🌟 Best Viewing Experience:**
+- **[View on Kaggle](https://www.kaggle.com/code/jannusairitwik/ai-job-application-tracker-capstone-project)** - Full interactive notebook with all outputs ⭐ RECOMMENDED
+- **[Run Your Own Copy](https://www.kaggle.com/code/jannusairitwik/ai-job-application-tracker-capstone-project/edit)** - Fork and experiment
+
+**Download:**
+- [Download .ipynb](https://github.com/SaiRitwik11/ai-job-tracker-capstone/raw/main/ai-job-application-tracker-capstone.ipynb) - Run locally in Jupyter
+
+> **Note**: For the best experience with visualizations and outputs, view on Kaggle. GitHub's notebook renderer has size limitations.
+
 ## 🚀 Quick Start
 
 ### Prerequisites
