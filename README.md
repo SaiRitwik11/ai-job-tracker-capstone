@@ -101,7 +101,7 @@ pip install google-generativeai pandas matplotlib seaborn
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/SaiRitwik11/ai-job-application-tracker.git](https://github.com/SaiRitwik11/ai-job-tracker-capstone.git)
+git clone https://github.com/SaiRitwik11/ai-job-tracker-capstone.git
 cd ai-job-tracker-capstone
 ```
 
