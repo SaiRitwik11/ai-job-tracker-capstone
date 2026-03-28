@@ -1,4 +1,4 @@
-# 🤖 AI Job Application Tracker
+# 📊 AI-Powered Job Application Analytics Tracker
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 **Google AI Agents Intensive - 5 Day Workshop Capstone Project**
 
-An intelligent job application tracking system powered by Google's Gemini AI, built to solve the real-world problem of managing multiple job applications efficiently.
+An analytics-focused system designed to track, measure, and optimize job application performance using real-world data.
 
 ## 📊 Analytics Perspective 
 
@@ -29,6 +29,8 @@ Key metrics analyzed:
 - Follow-up timing effectiveness  
 
 The focus is on extracting actionable insights from application data rather than building AI models from scratch.
+
+💡 This project focuses on analyzing job application data to improve conversion rates, optimize follow-ups, and increase interview success probability.
 
 ---
 
@@ -45,31 +47,13 @@ This AI agent helps job seekers:
 
 After months of job hunting with applications scattered across emails, spreadsheets, and sticky notes, I built this intelligent assistant to streamline my job search process. This capstone project demonstrates practical AI agent development while solving a genuine personal challenge.
 
-### My Journey 🚀
+## ✨ Key Capabilities
 
-I started the Google AI Agents Workshop knowing basic Python but had never built a complete AI agent before. Over 5 days, I learned how to:
-- Design agent architectures
-- Integrate tools with LLMs
-- Manage state and memory
-- Evaluate quality
-- Deploy production-ready code
-
-This tracker represents not just what I learned, but a tool I actually need and will use in my own job search!
-
-## ✨ Features & Analytics Capabilities
-
-- **Natural Language Interface**: Interact with your job tracker using conversational queries
-- **Persistent Storage**: SQLite database maintains complete application history
-- **Intelligent Tools**: 7 custom tools for comprehensive job tracking:
-  - Save applications with details
-  - Query and filter applications
-  - Update application status
-  - Research company information
-  - Generate cover letter drafts
-  - Calculate success metrics
-  - Set follow-up reminders
-- **Performance Monitoring**: Built-in quality metrics and evaluation
-- **Visual Analytics**: Interactive charts and statistics dashboard
+- Tracks application pipeline stages and conversion rates  
+- Monitors response rates across roles and companies  
+- Enables follow-up timing analysis  
+- Stores structured application data for analysis  
+- Provides dashboard for performance tracking  
 
 ## 🏗️ Architecture
 
