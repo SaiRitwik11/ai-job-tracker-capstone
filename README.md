@@ -19,7 +19,7 @@
 
 An intelligent job application tracking system powered by Google's Gemini AI, built to solve the real-world problem of managing multiple job applications efficiently.
 
-## 📊 Analytics Perspective  👈 ADD HERE
+## 📊 Analytics Perspective 
 
 This project is designed not just as a system, but as an analytics tool to track and optimize job application performance.
 
@@ -219,7 +219,7 @@ Good luck! I'll help you track this. 🎯
 ### Analytics Dashboard
    ![Analytics Dashboard](images/dashboard-preview.png)
 
-   ## 📈 Business Insights
+## 📈 Business Insights
 
 This system helps answer:
 - Which applications convert to interviews?
