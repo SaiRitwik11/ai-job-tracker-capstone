@@ -15,7 +15,7 @@
 
 ---
 
-**Google AI Agents Intensive - 5 Day Workshop Capstone Project**
+**Developed as part of Google’s AI Agents Intensive Workshop (Kaggle × Google).**
 
 An analytics-focused system designed to track, measure, and optimize job application performance using real-world data.
 
@@ -55,25 +55,11 @@ After months of job hunting with applications scattered across emails, spreadshe
 - Stores structured application data for analysis  
 - Provides dashboard for performance tracking  
 
-## 🏗️ Architecture
+## ⚙️ System Design
 
-### Workshop Concepts Demonstrated
-
-| Day | Concept | Implementation | Status |
-|-----|---------|----------------|--------|
-| 1 | Agent Architecture | JobSearchAgent with Gemini 2.0 Flash | ✅ |
-| 2 | Tool Integration | 7 custom tools with function calling | ✅ |
-| 3 | Memory & Context | SQLite + conversation history | ✅ |
-| 4 | Quality & Evaluation | Metrics tracking & monitoring | ✅ |
-| 5 | Production Ready | Error handling + logging | ✅ |
-
-### Tech Stack
-
-- **AI Model**: Google Gemini 2.0 Flash (via API)
-- **Database**: SQLite3
-- **Visualization**: Matplotlib, Seaborn
-- **Data Processing**: Pandas
-- **Language**: Python 3.11+
+- AI agent workflow for query handling  
+- SQLite-based structured data storage  
+- Python-based analytics processing  
 
 ## 📓 View the Project Notebook
 
