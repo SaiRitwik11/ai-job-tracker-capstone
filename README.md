@@ -45,7 +45,7 @@ This AI agent helps job seekers:
 
 ### Why This Project?
 
-After months of job hunting with applications scattered across emails, spreadsheets, and sticky notes, I built this intelligent assistant to streamline my job search process. This capstone project demonstrates practical AI agent development while solving a genuine personal challenge.
+Job application tracking at scale requires structured data management, not fragmented spreadsheets. This project demonstrates AI agent architecture and analytics pipeline design using real-world application funnel data — designed to measure and optimize job search conversion rates through systematic tracking and analysis.
 
 ## ✨ Key Capabilities
 
@@ -242,9 +242,9 @@ These insights help improve job search efficiency and decision-making.
 
 ## 📬 Contact
 
-**Jannu Sai Ritwik**
+**Sai Ritwik Jannu**
 
-- LinkedIn: https://www.linkedin.com/in/jannu-sai-ritwik-339749201/
+- LinkedIn: (https://www.linkedin.com/in/sai-ritwik-dataanalyst/)
 - Email: sairitwik008@gmail.com
 - Kaggle:(https://www.kaggle.com/jannusairitwik)
 
@@ -266,7 +266,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👤 Author
 
-**Jannu Sai Ritwik**
+**Sai Ritwik Jannu**
 
 - Workshop: Google AI Agents Intensive (5 Days)
 - Date: November 2025
