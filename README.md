@@ -28,6 +28,8 @@ Key metrics analyzed:
 - Response rates by company and role  
 - Follow-up timing effectiveness  
 
+This analytics layer mirrors the type of pipeline monitoring and conversion analysis done in business analytics roles — applied to the job search funnel as the data domain.
+
 The focus is on extracting actionable insights from application data rather than building AI models from scratch.
 
 💡 This project focuses on analyzing job application data to improve conversion rates, optimize follow-ups, and increase interview success probability.
@@ -281,8 +283,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <div align="center">
-
-### ⭐ If you found this project helpful, please consider giving it a star!
 
 **Built with ❤️ during the Google AI Agents 5-Day Workshop**
 
